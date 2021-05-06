@@ -1,0 +1,19 @@
+#img1{
+  border: 3px;
+    border-style: solid;
+    height: 300px;
+    width: 300px;
+}
+body{
+    text-align: center;
+    background-color: aqua; 
+}
+head{
+    text-align: center;
+}
+#img2{
+  border: 3px;
+    border-style: solid;
+    height: 300px;
+    width: 300px;
+}
